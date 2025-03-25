@@ -1,0 +1,8 @@
+git config --global user.name 'kodama-mari'
+git config --global user.email 'mari-kodama@movic.co.jp'
+git config --global core.editor 'code --wait'
+git config --global merge.tool 'code --wait "$MERGED"'
+git config --global push.default simple
+git config --global pull.rebase false
+git config --global core.quotepath false
+        
